@@ -1,0 +1,960 @@
+, a mathematical statistician from Bowie, Maryland
+, a marketing analyst from South Euclid, Ohio
+, a technology manager from Beverly Hills, Michigan (whose 1-day cash winnings total $6,200)
+, an apherisis recruiter and graduate student from St. Paul, Minnesota
+, a doctor from Boston, Massachusetts
+, a marketing analyst from South Euclid, Ohio (whose 1-day cash winnings total $7,300)
+, an attorney from Newton, Massachusetts
+, a computer programmer from Louisville, Kentucky
+, a marketing analyst from South Euclid, Ohio (whose 2-day cash winnings total $28,300)
+, a college professor and writer from Greensboro, North Carolina
+, a systems manager from Cleveland, Ohio
+, a marketing analyst from South Euclid, Ohio (whose 3-day cash winnings total $55,600)
+, a graduate student from Pittsburgh, Pennsylvania
+, a college instructor from Cincinnati, Ohio
+, a marketing analyst from South Euclid, Ohio (whose 4-day cash winnings total $81,700)
+, a student from North Hollywood, California
+, an accountant from Seattle, Washington
+, a marketing analyst from South Euclid, Ohio (whose 5-day cash winnings total $90,400)
+, a surgical technology student from North Ridgeville, Ohio
+, a teacher from the Bronx, New York
+, a student from North Hollywood, California (whose 1-day cash winnings total $24,001)
+, a marketing communication coordinator from Natick, Massachusetts
+, a researcher from Berkeley, California
+, a student from North Hollywood, California (whose 2-day cash winnings total $39,001)
+, a teacher from Lancaster, Ohio
+, a marketing consultant from San Diego, California
+, a marketing communication coordinator from Natick, Massachusetts (whose 1-day cash winnings total $6,800)
+, a finance administrator from Wheatley Heights, New York
+, a divinity student from Berkeley, California
+, a teacher from Lancaster, Ohio (whose 1-day cash winnings total $24,000)
+, a graduate student and research assistant from Redmond, Washington
+, an editor from Park Ridge, Illinois
+, a teacher from Lancaster, Ohio (whose 2-day cash winnings total $46,000)
+, a software analyst from Portland, Oregon
+, a law student from Media, Pennsylvania
+, an editor from Park Ridge, Illinois (whose 1-day cash winnings total $23,700)
+, a radio announcer from Lexington, Kentucky
+, an elementary school teacher from the Bronx, New York
+, an editor from Park Ridge, Illinois (whose 2-day cash winnings total $37,800)
+, a law student from San Diego, California
+, a college student from Great Neck, New York
+, an editor from Park Ridge, Illinois (whose 3-day cash winnings total $56,599)
+, an editor from Woburn, Massachusetts
+, a software trainer from Jeffersonville, Indiana
+, a law student from San Diego, California (whose 1-day cash winnings total $18,400)
+, a graduate student originally from Johnson City, Tennessee
+, a reporter from Cleveland Heights, Ohio
+, an editor from Woburn, Massachusetts (whose 1-day cash winnings total $19,103)
+, an executive assistant from Huntington Beach, California
+, a graduate student from Boulder, Colorado
+, a reporter from Cleveland Heights, Ohio (whose 1-day cash winnings total $13,399)
+, a reference librarian from Vista, California
+, an attorney from Los Angeles, California
+, a reporter from Cleveland Heights, Ohio (whose 2-day cash winnings total $30,399)
+, a senior from Chesterfield, Missouri
+, a junior from Clarkdale, Arizona
+, a junior from Silver Spring, Maryland
+, a senior from Bethpage, New York
+, a junior from Brookeville, Maryland
+, a junior from Grosse Pointe, Michigan
+, a sophomore from Maryville, Tennessee
+, a freshman from Tallahassee, Florida
+, a sophomore from Arden, North Carolina
+, a junior from Tampa, Florida
+, a senior from Mission Hills, Kansas
+, a senior from Sioux Falls, South Dakota
+, a senior from Peotone, Illinois
+, a senior from Antioch, California
+, a junior from Cincinnati, Ohio
+, a junior from Tampa, Florida
+, a senior from Peotone, Illinois
+, a junior from Brookeville, Maryland
+, a sophomore from Arden, North Carolina
+, a senior from Sioux Falls, South Dakota
+, a junior from Silver Spring, Maryland
+, a senior from Chesterfield, Missouri
+, a senior from Antioch, California
+, a junior from Grosse Pointe, Michigan
+, a senior from Peotone, Illinois
+, a senior from Antioch, California
+, a junior from Silver Spring, Maryland
+, a senior from Peotone, Illinois (subtotal of $9,000)
+, a senior from Antioch, California (subtotal of $10,000)
+, a junior from Silver Spring, Maryland (subtotal of $19,400)
+, a retired diplomat and university professor from Bergen, Noord-Holland, the Netherlands
+, a consultant from Penn Wynne, Pennsylvania
+, a Spanish teacher from Hayward, California
+, a teacher from Granada Hills, California
+, a lawyer from Washington, D.C.
+, a minister and writer from Rohnert Park, California
+, an author from Brooklyn, New York
+, a history professor from Houston, Texas
+, a law student from Kingston, Ontario, Canada
+, a development officer for a museum from Hoboken, New Jersey
+, a playwright and director from North Hills, California
+, a high school administrator from Moorestown, New Jersey
+, an attorney from Oklahoma City, Oklahoma
+, a writer from Los Angeles, California
+, a police officer from Los Angeles, California
+, a writer and producer from Miami, Florida
+, a consultant from San Mateo, California
+, a writer and internet specialist from North White Plains, New York
+, a writer and editor from Alexandria, Virginia
+, an investment analyst from Somers, New York
+, an adult literacy program coordinator from Santa Barbara, California
+, a college professor from Berkeley, California
+, an emergency medical technician and writer from Tujunga, California
+,  from Salt Lake City, Utah
+, a model aircraft engine technician from Champaign, Illinois
+, an entrepreneur from Bedford, Massachusetts
+, a junior at Carnegie Mellon University from Lexington, Kentucky
+, an actor and writer from Los Angeles, California
+, a corporate researcher from Berkeley, California
+, an attorney from Gainesville, Florida
+, an attorney from Los Angeles, California
+, an attorney from Richmond, Virginia
+, a sophomore at the University of North Carolina at Chapel Hill from Chapel Hill, North Carolina
+, a grad student at the University of California-Berkeley from Berkeley, California
+, an aerospace engineer from Torrance, California
+, a creative director from Torrance, California
+, a law professor from Davis, California
+, a computer consultant from Flagstaff, Arizona
+, an attorney from New York City, New York
+, an executive assistant originally from Wichita, Kansas
+, a writer from Los Angeles, California
+, an attorney from Arlington, Virginia
+, a project administrator from St. Louis, Missouri
+, a metrologist from Washington, D.C.
+, an educational consultant and writer from Northridge, California
+, a database developer and writer from New York, New York
+, a high school junior from Arkadelphia, Arkansas
+, a data modeler from Topeka, Kansas
+, a civil rights attorney from Potomac, Maryland
+, an associate director of consumer marketing from Austin, Texas
+, an attorney from San Francisco, California
+, a librarian from Lakeland, Florida
+, a sophomore at Middlebury College from Middlebury, Vermont
+, a bookstore manager from Concord, New Hampshire
+, a civil servant from Vancouver, Canada
+, a writer originally from Forest Grove, Oregon
+, a retired Air Force officer from Austin, Texas
+, a foreign service officer from Johannesburg, South Africa
+, a physician from Glendale, California
+, a business manager from Chamblee, Georgia
+, a college professor from Pasadena, California
+, an assistant director for the Central Intelligence Agency from Reston, Virginia
+, a librarian and a licensed amateur boxing official from Jacksonville, Florida
+, an attorney from Mill Valley, California
+, an entering law student originally from Chicago, Illinois
+, a college professor from Chapel Hill, North Carolina
+, a partner in a small computer company from Rockville, Maryland
+, a singer and actor from Atlanta, Georgia
+, a paralegal from Los Angeles, California
+, a general manager from Janesville, Wisconsin
+, a mathematics teacher from North Plainfield, New Jersey
+, a retail specialist from Louisville, Kentucky
+, a marketing manager from Columbus, Ohio
+, an architect from Cambridge, Massachusetts
+, a financial analyst originally from Louisville, Kentucky
+, a graphic designer from Oak Park, Illinois
+, a sportswriter from Oak Hill, Virginia
+, a writer and producer for television from Los Angeles, California
+, an astronomer from Houston, Texas
+, a lawyer from Owings Mills, Maryland
+, a freshman at MIT originally from Lexington, Kentucky
+, a graduate student and newlywed from Fort Collins, Colorado
+, a lawyer from Roselle Park, New Jersey
+, a technical products specialist originally from Yellowknife, Northwest Territories, Canada
+, a resident physician from Little Rock, Arkansas
+, a corporate controller from Richmond, California
+, a librarian from Evanston, Illinois
+, a law student from St. Louis, Missouri
+, an executive from Los Alamos, New Mexico
+, an accountant from Oakville, Ontario, Canada
+, a bookseller from Sylva, North Carolina
+, a teacher from Santa Monica, California
+, an attorney from Baltimore, Maryland
+, a senior at the University of Texas at Austin from Austin, Texas
+, a writer from Northbrook, Illinois
+, a professor originally from Chicopee, Massachusetts
+, an actuary from Vancouver, British Columbia, Canada
+, an investment analyst from San Diego, California
+, a college professor from Hillsdale, Michigan
+, a realtor from Mission Viejo, California
+, an actor and copy editor from New York, New York
+, an investment banker from New York, New York
+, a college senior from Katy, Texas
+, an index supervisor from Vallejo, California
+, a biologist from Santa Barbara, California
+, a musician and stay-at-home dad from Brooklyn, New York
+, an Advanced Placement history teacher from Livonia, Michigan
+, a part-time teacher from Bethesda, Maryland
+, a retired law librarian from Phoenix, Arizona
+, a senior at Stanford University from Stanford, California
+, a lawyer originally from New York, New York
+, a scientist from Oceanside, California
+, a research analyst originally from Broadview Heights, Ohio
+, a newspaper copy editor from Martinsburg, West Virginia
+, a bookkeeper and computer consultant from Inglewood, California
+, a homemaker from Hertfordshire, England
+, a human resources manager from Cheverly, Maryland
+, a business manager from Ventura, California
+, a graduate student from Ithaca, New York
+, a health policy analyst from Toronto, Ontario, Canada
+, an alcohol and drug counselor from Rockford, Illinois
+, a musician, writer and teacher from Bangkok, Thailand
+, a musician and licensing executive from Fort Thomas, Kentucky
+, a college instructor from Richardson, Texas
+, a high school junior from Silver Spring, Maryland
+, a policy analyst from Arlington, Virginia
+, a legal assistant from Seattle, Washington
+, a budget analyst from Washington, D.C.
+, an actuarial technician from Thousand Oaks, California
+, a lawyer from New York, New York
+, a project manager and expectant father from Atlanta, Georgia
+, an economist from Topanga, California
+, a radiologist from Nyack, New York
+, a technical writer from Berkeley, California
+, an industrial scaleman from Dallas, Texas
+, a college professor from Berkeley, California
+, a musician and stay-at-home dad from Brooklyn, New York
+, a college senior from Katy, Texas
+, an actor and copy editor from New York, New York
+, a project manager and expectant father from Atlanta, Georgia
+, a technical writer from Berkeley, California
+, a database developer and writer from New York, New York
+, a writer from Washington, D.C.
+, a college professor from Pasadena, California
+, an accountant from Oakville, Ontario, Canada
+, a writer from Los Angeles, California
+, a metrologist from Washington, D.C.
+, a resident physician from Little Rock, Arkansas
+, a director of technical assistance from Sioux City, Iowa
+, a teacher from Santa Monica, California
+, an astronomer from Houston, Texas
+, a consultant from San Mateo, California
+, an entrepreneur from Bedford, Massachusetts
+, a writer from Los Angeles, California
+, a graduate student from Whitehall, Pennsylvania
+, an architect from Cambridge, Massachusetts
+, an attorney from Gainesville, Florida
+, a writer from Northbrook, Illinois
+, a technical products specialist originally from Yellowknife, Northwest Territories, Canada
+, a partner in a small computer company from Rockville, Maryland
+, a research analyst originally from Broadview Heights, Ohio
+, an instructional designer from Marietta, Georgia
+, a high school administrator from Moorestown, New Jersey
+, a retail specialist from Louisville, Kentucky
+, a writer originally from Forest Grove, Oregon
+, an attorney from Los Angeles, California
+, a health policy analyst from Toronto, Ontario, Canada
+, a business manager from Chamblee, Georgia
+, a retired law librarian from Phoenix, Arizona
+, a TV quiz show host from Lancaster, Pennsylvania
+, a creative director from Torrance, California
+, a consultant from Minneapolis, Minnesota
+, a minister and writer from Rohnert Park, California
+, a librarian from Lakeland, Florida
+, an author from Brooklyn, New York
+, an entering law student originally from Chicago, Illinois
+, a retired diplomat and university professor from Bergen, Noord-Holland, the Netherlands
+, an investment analyst from San Diego, California
+, an attorney from New York City, New York
+, a director of academics for a national test preparation company from Los Angeles, California
+, an alcohol and drug counselor from Rockford, Illinois
+, an adult literacy program coordinator from Santa Barbara, California
+, a police lieutenant from Douglaston, New York
+, a policy analyst from Arlington, Virginia
+, a legal assistant from Seattle, Washington
+, a lawyer from Bosnia and Herzegovina
+, a writer and producer for television from Los Angeles, California
+, an attorney from San Francisco, California
+, a homemaker from Hertfordshire, England
+, a college professor from Pasadena, California
+, a TV quiz show host from Lancaster, Pennsylvania
+, a technical writer from Berkeley, California
+, an astronomer from Houston, Texas
+, a legal assistant from Seattle, Washington
+, an entering law student originally from Chicago, Illinois
+, a police lieutenant from Douglaston, New York
+, a librarian from Lakeland, Florida
+, a resident physician from Little Rock, Arkansas
+, a homemaker from Hertfordshire, England
+, a technical products specialist originally from Yellowknife, Northwest Territories, Canada
+, an investment analyst from San Diego, California
+, a health policy analyst from Toronto, Ontario, Canada
+, a retail specialist from Louisville, Kentucky
+, a research analyst originally from Broadview Heights, Ohio
+, an accountant from Oakville, Ontario, Canada
+, a college professor from Berkeley, California
+, a writer from Los Angeles, California
+, a writer from Los Angeles, California
+, an entering law student originally from Chicago, Illinois
+, a police lieutenant from Douglaston, New York
+, an entering law student originally from Chicago, Illinois (subtotal of $10,000)
+, a police lieutenant from Douglaston, New York (subtotal of $13,500)
+, a writer from Los Angeles, California (subtotal of $23,100)
+, an investment analyst from San Diego, California
+, a retail specialist from Louisville, Kentucky
+, a TV quiz show host from Lancaster, Pennsylvania
+, a retail specialist from Louisville, Kentucky (subtotal of $10,000)
+, an investment analyst from San Diego, California (subtotal of $13,500)
+, a TV quiz show host from Lancaster, Pennsylvania (subtotal of $10,000)
+, a software engineer from Salt Lake City, Utah
+, a TV quiz show host from Lancaster, Pennsylvania
+, a writer from Los Angeles, California
+, a writer from Los Angeles, California (subtotal of $16,400)
+, a software engineer from Salt Lake City, Utah (subtotal of $16,000)
+, a TV quiz show host from Lancaster, Pennsylvania (subtotal of $18,400)
+, a TV quiz show host from Lancaster, Pennsylvania (subtotal of $38,400)
+, a writer from Los Angeles, California (subtotal of $19,600)
+, a software engineer from Salt Lake City, Utah (subtotal of $26,000)
+, a live-in caregiver from Longview, Washington
+, a payroll manager from Antioch, California
+, an attorney from Los Angeles, California (whose 1-day cash winnings total $26,001)
+, an ISO coordinator from Cheektowaga, New York
+, a middle school math teacher from Versailles, Kentucky
+, an attorney from Los Angeles, California (whose 2-day cash winnings total $47,602)
+, a high school English teacher from Santa Barbara, California
+, a library assistant from Lincoln, Nebraska
+, a middle school math teacher from Versailles, Kentucky (whose 1-day cash winnings total $25,600)
+, a lawyer from Newton, Massachusetts
+, a counseling support specialist from San Marcos, California
+, a library assistant from Lincoln, Nebraska (whose 1-day cash winnings total $14,000)
+, a musician from Somerville, Massachusetts
+, a law student from Alexandria, Virginia
+, a lawyer from Newton, Massachusetts (whose 1-day cash winnings total $20,200)
+, a school cafeteria worker from Omaha, Nebraska
+, a mom from Old Greenwich, Connecticut
+, a lawyer from Newton, Massachusetts (whose 2-day cash winnings total $48,400)
+, a child health advocate originally from Chevy Chase, Maryland
+, a lawyer from Boston, Massachusetts
+, a lawyer from Newton, Massachusetts (whose 3-day cash winnings total $76,000)
+, a teacher and athletic director from San Bernardino, California
+, a research administrator from Seattle, Washington
+, a lawyer from Boston, Massachusetts (whose 1-day cash winnings total $23,201)
+, a systems project manager from Hull, Massachusetts
+, a service consultant from Los Angeles, California
+, a teacher and athletic director from San Bernardino, California (whose 1-day cash winnings total $14,200)
+, an associate producer originally from Bethesda, Maryland
+, a high school English teacher from Omaha, Nebraska
+, a service consultant from Los Angeles, California (whose 1-day cash winnings total $26,000)
+, a high school English teacher from Minneapolis, Minnesota
+, an editor originally from Cambridge, Massachusetts
+, an associate producer originally from Bethesda, Maryland (whose 1-day cash winnings total $9,300)
+, a geologist from Bethesda, Maryland
+, a doctoral student from Torrance, California
+, an associate producer originally from Bethesda, Maryland (whose 2-day cash winnings total $27,400)
+, a pathologist from Bellingham, Washington
+, an administrative assistant from Lexington, Kentucky
+, a geologist from Bethesda, Maryland (whose 1-day cash winnings total $3,600)
+, a journalist from Baltimore, Maryland
+, a student from Mill Valley, California
+, a geologist from Bethesda, Maryland (whose 2-day cash winnings total $13,000)
+, a freelance writer from Los Angeles, California
+, a teacher and a speech coach from Naperville, Illinois
+, a journalist from Baltimore, Maryland (whose 1-day cash winnings total $13,200)
+, an equity analyst originally from the Bronx, New York
+, a coordinator of experiential education and student employment from Lexington, Kentucky
+, a teacher and a speech coach from Naperville, Illinois (whose 1-day cash winnings total $23,300)
+, a registered nurse from Ridgefield Park, New Jersey
+, a newspaper copy editor originally from Brandon, Vermont
+, a coordinator of experiential education and student employment from Lexington, Kentucky (whose 1-day cash winnings total $12,400)
+, a high school humanities teacher from Seattle, Washington
+, a student originally from Houston, Texas
+, a newspaper copy editor originally from Brandon, Vermont (whose 1-day cash winnings total $21,600)
+, a political fundraiser from Arlington, Virginia
+, a writer and consultant from Pittsburgh, Pennsylvania
+, a newspaper copy editor originally from Brandon, Vermont (whose 2-day cash winnings total $30,900)
+, an attorney from Hooksett, New Hampshire
+, a graduate student originally from Toledo, Ohio
+, a political fundraiser from Arlington, Virginia (whose 1-day cash winnings total $1,201)
+, a medical student originally from Newaygo, Michigan
+, a strategic planning manager from Menlo Park, California
+, a political fundraiser from Arlington, Virginia (whose 2-day cash winnings total $25,602)
+, a mathematics educator originally from Antrim, New Hampshire
+, a training manager from Rochester Hills, Michigan
+, a medical student originally from Newaygo, Michigan (whose 1-day cash winnings total $6,801)
+, a high school English teacher from Mount Morris, New York
+, a law clerk originally from Newport News, Virginia
+, a mathematics educator originally from Antrim, New Hampshire (whose 1-day cash winnings total $15,417)
+, a student from Lexington, Kentucky
+, a mutual fund accountant from Boston, Massachusetts
+, a law clerk originally from Newport News, Virginia (whose 1-day cash winnings total $8,801)
+, a culinary student from Morehead City, North Carolina
+, a publisher and house dad from Oakland, California
+, a student from Lexington, Kentucky (whose 1-day cash winnings total $7,600)
+, a contract attorney from Arlington, Virginia
+, an engineer from Edwards, California
+, a student from Lexington, Kentucky (whose 2-day cash winnings total $24,600)
+, an attorney originally from Tulsa, Oklahoma
+, an attorney from Crestwood, Kentucky
+, an engineer from Edwards, California (whose 1-day cash winnings total $13,999)
+, an underwriting manager from Chanhassen, Minnesota
+, a customer relations specialist from Cardiff-by-the-Sea, California
+, an attorney originally from Tulsa, Oklahoma (whose 1-day cash winnings total $20,401)
+, a student originally from Ridgewood, New Jersey
+, a high school physics teacher from Burlington, Ontario, Canada
+, a customer relations specialist from Cardiff-by-the-Sea, California (whose 1-day cash winnings total $24,800)
+, an accountant from Selah, Washington
+, an aspiring teacher from Carlsbad, California
+, a student originally from Ridgewood, New Jersey (whose 1-day cash winnings total $16,400)
+, an attorney from North Hills, California
+, a retired police sergeant from the Bronx, New York
+, a student originally from Ridgewood, New Jersey (whose 2-day cash winnings total $35,200)
+, a reporter from Falls Church, Virginia
+, a structural engineer from Silver Spring, Maryland
+, a student originally from Ridgewood, New Jersey (whose 3-day cash winnings total $69,400)
+, an office manager from Delran, New Jersey
+, a customer service representative from Fremont, California
+, a student originally from Ridgewood, New Jersey (whose 4-day cash winnings total $94,400)
+, a lawyer from Washington, D.C.
+, a homemaker and freelance editor from Highlands, North Carolina
+, a student originally from Ridgewood, New Jersey (whose 5-day cash winnings total $126,500)
+, a stay-at-home dad and mortgage broker from Del Mar, California
+, an educator from Philadelphia, Pennsylvania
+, a student originally from Ridgewood, New Jersey (whose 6-day cash winnings total $155,500)
+, a homemaker and substitute teacher from Leawood, Kansas
+, an attorney from North Hampton, New Hampshire
+, a student originally from Ridgewood, New Jersey (whose 7-day cash winnings total $173,500)
+, a sales manager from Mounds View, Minnesota
+, a screenwriter from Studio City, California
+, a student originally from Ridgewood, New Jersey (whose 8-day cash winnings total $198,500)
+, a writer and editor from Franklin, Tennessee
+, a Naval officer from Virginia Beach, Virginia
+, a student originally from Ridgewood, New Jersey (whose 9-day cash winnings total $217,100)
+, a horseback riding instructor from Marietta, Georgia
+, an advertising copywriter from Washington, D.C.
+, a student originally from Ridgewood, New Jersey (whose 10-day cash winnings total $239,100)
+, a prepress technician and ethics instructor from Charlotte, North Carolina
+, a writer from Chicago, Illinois
+, a student originally from Ridgewood, New Jersey (whose 11-day cash winnings total $269,101)
+, a dance/movement therapist originally from West Union, West Virginia
+, a restaurant manager from Lincoln, Nebraska
+, a student originally from Ridgewood, New Jersey (whose 12-day cash winnings total $280,101)
+, an attorney originally from Sterling Heights, Michigan
+, a technical support manager from Escondido, California
+, a student originally from Ridgewood, New Jersey (whose 13-day cash winnings total $305,101)
+, an attorney originally from Churchville, Maryland
+, a student from Rochester, New York
+, a student originally from Ridgewood, New Jersey (whose 14-day cash winnings total $333,301)
+, a graduate student originally from Laurel, Mississippi
+, a construction manager from Jersey City, New Jersey
+, a student originally from Ridgewood, New Jersey (whose 15-day cash winnings total $354,701)
+, a marketing interviewer from Madison, Wisconsin
+, a children's museum designer from St. Petersburg, Florida
+, a student originally from Ridgewood, New Jersey (whose 16-day cash winnings total $378,700)
+, a pediatrician from Kingston, Ontario, Canada
+, a research scientist from New York, New York
+, a student originally from Ridgewood, New Jersey (whose 17-day cash winnings total $391,900)
+, a homemaker from Ijamsville, Maryland
+, a production assistant from Los Angeles, California
+, a student originally from Ridgewood, New Jersey (whose 18-day cash winnings total $413,900)
+, a musician originally from Decatur, Georgia
+, a sailor originally from Columbia, Maryland
+, a student originally from Ridgewood, New Jersey (whose 19-day cash winnings total $430,400)
+, a retired advertising executive from Arlington, Virginia
+, an instructor and writer from Austin, Texas
+, a musician originally from Decatur, Georgia (whose 1-day cash winnings total $22,801)
+, a high school librarian from Peoria, Arizona
+, an air quality consultant from Bridgewater, New Jersey
+, a retired advertising executive from Arlington, Virginia (whose 1-day cash winnings total $14,200)
+, an adjunct professor and writer from the Bronx, New York
+, a homemaker from New Orleans, Louisiana
+, an air quality consultant from Bridgewater, New Jersey (whose 1-day cash winnings total $30,801)
+, a writer from Manahawkin, New Jersey
+, a student originally from Toronto, Ontario, Canada
+, a homemaker from New Orleans, Louisiana (whose 1-day cash winnings total $12,300)
+, a radio host from Okemos, Michigan
+, a graduate student originally from Ventura, California
+, a homemaker from New Orleans, Louisiana (whose 2-day cash winnings total $28,300)
+, a sales manager from Morristown, New Jersey
+, an executive recruiter from Asheville, North Carolina
+, a graduate student originally from Ventura, California (whose 1-day cash winnings total $8,000)
+, a real estate lawyer from Jupiter, Florida
+, a student originally from Conway, Arkansas
+, a sales manager from Morristown, New Jersey (whose 1-day cash winnings total $13,000)
+, a labor and delivery registered nurse from Lake City, Florida
+, an assistant teacher from San Francisco, California
+, a sales manager from Morristown, New Jersey (whose 2-day cash winnings total $28,800)
+, an attorney from Webster, New York
+, a teacher from Houston, Texas
+, an assistant teacher from San Francisco, California (whose 1-day cash winnings total $16,000)
+, a pharmacy technician from Old Town, Maine
+, a marine biologist from Newport, Oregon
+, an attorney from Webster, New York (whose 1-day cash winnings total $6,900)
+, a medical communications consultant from New York, New York
+, a software engineer from Bristol, Rhode Island
+, a pharmacy technician from Old Town, Maine (whose 1-day cash winnings total $32,100)
+, a landscaper from Charleston, South Carolina
+, a graduate student from Baltimore, Maryland
+, a pharmacy technician from Old Town, Maine (whose 2-day cash winnings total $55,700)
+, a graduate student originally from Pleasantville, New York
+, a freelance broadcast journalist from Waterloo, Ontario, Canada
+, a pharmacy technician from Old Town, Maine (whose 3-day cash winnings total $78,800)
+, a teacher from Kyle, Texas
+, a physician from Elm Grove, Wisconsin
+, a pharmacy technician from Old Town, Maine (whose 4-day cash winnings total $99,200)
+,  from Yonkers, New York
+,  from Placentia, California
+,  from Centreville, Virginia
+,  from the Bronx, New York
+,  from Derwood, Maryland
+,  from Montgomery, Texas
+,  from Escondido, California
+,  from Williamsville, New York
+,  from West Chester, Pennsylvania
+,  from Madison, Wisconsin
+,  from Tualatin, Oregon
+,  from Avon, Connecticut
+,  from Indianapolis, Indiana
+,  from Roselle, Illinois
+,  from Irvine, California
+, an office assistant from Burbank, California
+, a writer from Brooklyn, New York
+, a teacher from Kyle, Texas (whose 1-day cash winnings total $19,395)
+, a private tutor from Espanito, California
+, an office clerk originally from Jamaica, now living in Toronto, Ontario, Canada
+, a teacher from Kyle, Texas (whose 2-day cash winnings total $41,706)
+, an attorney from Lansdale, Pennsylvania
+, a communications consultant from Naperville, Illinois
+, an office clerk originally from Jamaica, now living in Toronto, Ontario, Canada (whose 1-day cash winnings total $2,800)
+, a waiter from Wheaton, Illinois
+, a classical radio announcer from Madison, Wisconsin
+, a communications consultant from Naperville, Illinois (whose 1-day cash winnings total $19,001)
+, a law student from Austin, Texas
+, a writer from Takoma Park, Maryland
+, a communications consultant from Naperville, Illinois (whose 2-day cash winnings total $33,401)
+, an administrative assistant from Seattle, Washington
+, an attorney from Atlanta, Georgia
+, a law student from Austin, Texas (whose 1-day cash winnings total $5,300)
+, a pastor from Independence, California
+, a loan consultant from Chalfont, Pennsylvania
+, an attorney from Atlanta, Georgia (whose 1-day cash winnings total $21,601)
+, a teacher from Plainfield, Illinois
+, a history teacher from Alexandria, Virginia
+, a pastor from Independence, California (whose 1-day cash winnings total $19,400)
+, an account manager from Brighton, Massachusetts
+, an actor and improviser from Chicago, Illinois
+, a history teacher from Alexandria, Virginia (whose 1-day cash winnings total $18,000)
+, an environmental specialist from Doylestown, Pennsylvania
+, a songwriter, vocalist, and graduate student from Sacramento, California
+, an actor and improviser from Chicago, Illinois (whose 1-day cash winnings total $27,000)
+, a radio broadcast producer from Santa Clarita, California
+, a teacher originally from Salt Lake City, Utah
+, an actor and improviser from Chicago, Illinois (whose 2-day cash winnings total $48,200)
+, an attorney from Irvine, California
+, a tech advisor from Englewood, Ohio
+, a teacher originally from Salt Lake City, Utah (whose 1-day cash winnings total $6,000)
+, a creative marketing consultant from San Diego, California
+, a television producer from Hyattsville, Maryland
+, a teacher originally from Salt Lake City, Utah (whose 2-day cash winnings total $52,600)
+, a printing salesman from North Providence, Rhode Island
+, a student and freelance bartender from Denton, Texas
+, a teacher originally from Salt Lake City, Utah (whose 3-day cash winnings total $81,700)
+, an editor originally from Horseheads, New York
+, a psychotherapist from South Windsor, Connecticut
+, a teacher originally from Salt Lake City, Utah (whose 4-day cash winnings total $111,700)
+, a sophomore at Purdue University from Carmel, Indiana
+, a junior at Boston University from East Longmeadow, Massachusetts
+, a sophomore at the University of North Carolina at Chapel Hill from Holly Springs, North Carolina
+, a junior at the University of Maryland from New York, New York
+, a junior at Washington University in St. Louis from Madison, Wisconsin
+, a senior at North Carolina Central University from Durham, North Carolina
+, a junior at Gonzaga University from East Wenatchee, Washington
+, a sophomore at New York University from Bala Cynwyd, Pennsylvania
+, a senior at North Carolina State University from Cary, North Carolina
+, a senior at the University of Alabama at Birmingham from Pinson, Alabama
+, a sophomore at Duke University from Raleigh, North Carolina
+, a sophomore at Princeton University from Springfield, Massachusetts
+, a junior at Stanford University from Bloomfield Hills, Michigan
+, a senior at the University of Rochester from Milwaukie, Oregon
+, a junior at the University of Michigan at Dearborn from Dearborn, Michigan
+, a sophomore at Purdue University from Carmel, Indiana
+, a junior at Washington University in St. Louis from Madison, Wisconsin
+, a junior at Gonzaga University from East Wenatchee, Washington
+, a junior at the University of Maryland from New York, New York
+, a sophomore at New York University from Bala Cynwyd, Pennsylvania
+, a junior at Stanford University from Bloomfield Hills, Michigan
+, a senior at the University of Alabama at Birmingham from Pinson, Alabama
+, a senior at North Carolina State University from Cary, North Carolina
+, a junior at Boston University from East Longmeadow, Massachusetts
+, a senior at the University of Alabama at Birmingham from Pinson, Alabama
+, a junior at Stanford University from Bloomfield Hills, Michigan
+, a junior at Washington University in St. Louis from Madison, Wisconsin
+, a senior at the University of Alabama at Birmingham from Pinson, Alabama (subtotal of $14,800)
+, a junior at Stanford University from Bloomfield Hills, Michigan (subtotal of $29,000)
+, a junior at Washington University in St. Louis from Madison, Wisconsin (subtotal of $399)
+, an accelerator operator from Los Alamos, New Mexico
+, a graduate student from Virginia Beach, Virginia
+, a teacher originally from Salt Lake City, Utah (whose 5-day cash winnings total $122,300)
+, an attorney from Bonita Springs, Florida
+, a communications consultant from San Diego, California
+, a graduate student from Virginia Beach, Virginia (whose 1-day cash winnings total $22,600)
+, a high school director from West Grove, Pennsylvania
+, a Ph.D. student from Medford, Massachusetts
+, an attorney from Bonita Springs, Florida (whose 1-day cash winnings total $18,199)
+, a database administrator from Walnut Creek, California
+, an investment specialist from Fort Mitchell, Kentucky
+, an attorney from Bonita Springs, Florida (whose 2-day cash winnings total $23,399)
+, a reference assistant from Clemson, South Carolina
+, an attorney from Seattle, Washington
+, an attorney from Bonita Springs, Florida (whose 3-day cash winnings total $53,798)
+, a medical student from Austin, Texas
+, a homemaker from Dearborn, Michigan
+, an attorney from Bonita Springs, Florida (whose 4-day cash winnings total $75,399)
+, a writer from La Mesa, California
+, an emergency medical technician originally from Sioux Falls, South Dakota
+, a medical student from Austin, Texas (whose 1-day cash winnings total $23,201)
+, a student from Wayne, New Jersey
+, a marketing communications consultant from San Francisco, California
+, a medical student from Austin, Texas (whose 2-day cash winnings total $51,201)
+, a graduate student from Fort Lauderdale, Florida
+, a proposal writer from Foxborough, Massachusetts
+, a medical student from Austin, Texas (whose 3-day cash winnings total $72,002)
+, a payroll specialist from St. Paul, Minnesota
+, an attorney from Arlington, Virginia
+, a graduate student from Fort Lauderdale, Florida (whose 1-day cash winnings total $20,000)
+, a school psychologist from Sherman Oaks, California
+, a program manager from Redmond, Washington
+, a graduate student from Fort Lauderdale, Florida (whose 2-day cash winnings total $39,700)
+, a trademark consultant originally from Marietta, Oklahoma
+, a poker player and dog walker from Chicago, Illinois
+, a school psychologist from Sherman Oaks, California (whose 1-day cash winnings total $7,999)
+, a sportswriter from Atlanta, Georgia
+, a flight attendant originally from Gulfport, Mississippi
+, a school psychologist from Sherman Oaks, California (whose 2-day cash winnings total $19,799)
+, a communications coach originally from Troy, Michigan
+, a law student from New York, New York
+, a sportswriter from Atlanta, Georgia (whose 1-day cash winnings total $4,001)
+, a children's encyclopedia editor from New Milford, Connecticut
+, a mom and assistant editor from Boynton Beach, Florida
+, a communications coach originally from Troy, Michigan (whose 1-day cash winnings total $20,001)
+, a college professor from Westminster, Maryland
+, a manager from Aromas, California
+, a children's encyclopedia editor from New Milford, Connecticut (whose 1-day cash winnings total $8,700)
+, a writer originally from New Orleans, Louisiana
+, a business writer from Seattle, Washington
+, a manager from Aromas, California (whose 1-day cash winnings total $20,401)
+, an English teacher from Saugerties, New York
+, a hotel employee from Goderich, Ontario, Canada
+, a manager from Aromas, California (whose 2-day cash winnings total $34,800)
+, a law school graduate from Vernon, Connecticut
+, a nonprofit director from Philadelphia, Pennsylvania
+, a hotel employee from Goderich, Ontario, Canada (whose 1-day cash winnings total $14,600)
+, a retired dentist from Wellington, Florida
+, a homemaker from Groton, Massachusetts
+, a law school graduate from Vernon, Connecticut (whose 1-day cash winnings total $18,000)
+, a librarian from Atlanta, Georgia
+, a teacher from Cody, Wyoming
+, a homemaker from Groton, Massachusetts (whose 1-day cash winnings total $5,200)
+, a high school guidance counselor from Johnstown, Pennsylvania
+, a chemist originally from Weirton, West Virginia
+, a librarian from Atlanta, Georgia (whose 1-day cash winnings total $28,401)
+, a limousine driver from Las Vegas, Nevada
+, a high school teacher from Duxbury, Massachusetts
+, a librarian from Atlanta, Georgia (whose 2-day cash winnings total $53,202)
+, an investigator and lawyer from Toronto, Ontario, Canada
+, a student from Manchester, Kentucky
+, a limousine driver from Las Vegas, Nevada (whose 1-day cash winnings total $11,400)
+, a journalist from Brooklyn, New York
+, a police officer from Blauvelt, New York
+, a limousine driver from Las Vegas, Nevada (whose 2-day cash winnings total $26,200)
+, an aerospace engineer from San Pedro, California
+, a writer from Washington, D.C.
+, a journalist from Brooklyn, New York (whose 1-day cash winnings total $21,400)
+, a mail carrier from Reading, Pennsylvania
+, a learning consultant from Chicago, Illinois
+, a journalist from Brooklyn, New York (whose 2-day cash winnings total $27,400)
+, a training and educational design specialist originally from Grand Island, Nebraska
+, an educational director from Cleveland, Ohio
+, a learning consultant from Chicago, Illinois (whose 1-day cash winnings total $22,900)
+, a political consultant from Brooklyn, New York
+, a writer from St. Louis, Missouri
+, a learning consultant from Chicago, Illinois (whose 2-day cash winnings total $32,200)
+, a marketing manager and grad student from Chevy Chase, Maryland
+, a registered nurse from Asheville, North Carolina
+, a writer from St. Louis, Missouri (whose 1-day cash winnings total $28,000)
+, a law student originally from Bloomfield Hills, Michigan
+, a manager from Port Chester, New York
+, a writer from St. Louis, Missouri (whose 2-day cash winnings total $46,801)
+, a writer from Columbus, Ohio
+, a substitute teacher from Bremen, Georgia
+, a writer from St. Louis, Missouri (whose 3-day cash winnings total $58,800)
+, a financial consultant from Bethesda, Maryland
+, an automotive engineer from Chili, New York
+, a writer from St. Louis, Missouri (whose 4-day cash winnings total $85,201)
+, a translation coordinator from Philadelphia, Pennsylvania
+, a musician from Maylene, Alabama
+, a writer from St. Louis, Missouri (whose 5-day cash winnings total $94,201)
+, an attorney from Louisville, Kentucky
+, a stay-at-home mom from Berwyn, Illinois
+, a writer from St. Louis, Missouri (whose 6-day cash winnings total $114,201)
+, a caregiver from Pawtucket, Rhode Island
+, a pharmacist from Bridgeport, Pennsylvania
+, a writer from St. Louis, Missouri (whose 7-day cash winnings total $138,602)
+, a student from Metairie, Louisiana
+, a supervising deputy probation officer from Los Angeles, California
+, a writer from St. Louis, Missouri (whose 8-day cash winnings total $142,602)
+, an accounts receivable manager from Novato, California
+, a waitress from Edina, Minnesota
+, a student from Metairie, Louisiana (whose 1-day cash winnings total $14,400)
+, a grad student from Boston, Massachusetts
+, an editor from New York, New York
+, a student from Metairie, Louisiana (whose 2-day cash winnings total $27,601)
+, a stay-at-home mom from Shoreline, Washington
+, a freelance communications business consultant from the Bronx, New York
+, a student from Metairie, Louisiana (whose 3-day cash winnings total $56,801)
+, an attorney from Tampa, Florida
+, an HR consultant from Westbury, New York
+, a student from Metairie, Louisiana (whose 4-day cash winnings total $73,401)
+, a travel agent from New York, New York
+, a support center analyst from Redondo Beach, California
+, a student from Metairie, Louisiana (whose 5-day cash winnings total $90,202)
+, a caterer from Petaluma, California
+, a transcriber from Chicago, Illinois
+, a student from Metairie, Louisiana (whose 6-day cash winnings total $98,201)
+, a substitute teacher and library clerk from Wolcott, Connecticut
+, a technical instructor from Oswego, New York
+, a caterer from Petaluma, California (whose 1-day cash winnings total $22,795)
+, a software engineer from Washington, D.C.
+, a coffee shop manager and trainer from Las Vegas, Nevada
+, a technical instructor from Oswego, New York (whose 1-day cash winnings total $24,000)
+, an arts administrator from Denver, Colorado
+, a curatorial assistant from Los Angeles, California
+, a software engineer from Washington, D.C. (whose 1-day cash winnings total $13,999)
+, a grad student from Holbrook, New York
+, a stay-at-home mom and online college professor from Helena, Alabama
+, an arts administrator from Denver, Colorado (whose 1-day cash winnings total $8,799)
+, an Army officer from Fort Monroe, Virginia
+, a medical assistant from Amherst, New Hampshire
+, an arts administrator from Denver, Colorado (whose 2-day cash winnings total $31,600)
+, a nonprofit development director from Watertown, Massachusetts
+, a copy editor from New York, New York
+, an arts administrator from Denver, Colorado (whose 3-day cash winnings total $42,399)
+, a homemaker from Easthampton, Massachusetts
+, a federal IT specialist from Brambleton, Virginia
+, a copy editor from New York, New York (whose 1-day cash winnings total $16,801)
+, a teacher from DeLand, Florida
+, a brick manufacturer from Los Angeles, California
+, a federal IT specialist from Brambleton, Virginia (whose 1-day cash winnings total $9,601)
+, a medical student from Philadelphia, Pennsylvania
+, a talk radio show host from Toronto, Ontario, Canada
+, a brick manufacturer from Los Angeles, California (whose 1-day cash winnings total $7,599)
+, an attorney from Bethesda, Maryland
+, a travel marketer from Williamsburg, Virginia
+, a medical student from Philadelphia, Pennsylvania (whose 1-day cash winnings total $13,300)
+, a teacher originally from Peoria, Illinois
+, an attorney from Bethesda, Maryland (whose 1-day cash winnings total $11,200)
+, a medical student from Philadelphia, Pennsylvania (whose 2-day cash winnings total $24,500)
+, a consultant from Bellevue, Washington
+, a college instructor from Madison, Alabama
+, a medical student from Philadelphia, Pennsylvania (whose 3-day cash winnings total $41,400)
+, a senior from Setauket, New York
+, a senior from Huntington Beach, California
+, a senior from Takoma Park, Maryland
+, a senior from Denver, Colorado
+, a senior from Pittsford, New York
+, a sophomore from Winchester, Virginia
+, a junior from Louisville, Kentucky
+, a junior from Mays Landing, New Jersey
+, a senior from New Orleans, Louisiana
+, a junior from Deerfield, Illinois
+, a junior from Sunrise, Florida
+, a sophomore from Lexington, Kentucky
+, a junior from Pittsburgh, Pennsylvania
+, a senior from St. Joseph, Missouri
+, a senior from Twinsburg, Ohio
+, a senior from Takoma Park, Maryland
+, a senior from New Orleans, Louisiana
+, a senior from Pittsford, New York
+, a senior from Huntington Beach, California
+, a junior from Sunrise, Florida
+, a junior from Louisville, Kentucky
+, a junior from Mays Landing, New Jersey
+, a sophomore from Lexington, Kentucky
+, a senior from St. Joseph, Missouri
+, a senior from Pittsford, New York
+, a sophomore from Lexington, Kentucky
+, a senior from Huntington Beach, California
+, a senior from Pittsford, New York (subtotal of $11,800)
+, a sophomore from Lexington, Kentucky (subtotal of $4,000)
+, a senior from Huntington Beach, California (subtotal of $6,500)
+, a software developer from Chicago, Illinois
+, a consultant from Philadelphia, Pennsylvania
+, a consultant from Bellevue, Washington (whose 1-day cash winnings total $19,200)
+, a freelance writer from Redwood City, California
+, a publicist from Brooklyn, New York
+, a software developer from Chicago, Illinois (whose 1-day cash winnings total $13,300)
+, a travel marketing executive from Boca Raton, Florida
+, a supervisor from Chilliwack, British Columbia, Canada
+, a publicist from Brooklyn, New York (whose 1-day cash winnings total $8,800)
+, a historian and professor of women's studies from Tampa, Florida
+, an attorney from St. Louis, Missouri
+, a supervisor from Chilliwack, British Columbia, Canada (whose 1-day cash winnings total $18,900)
+, a program manager from Houston, Texas
+, a freelance writer from Toronto, Ontario, Canada
+, an attorney from St. Louis, Missouri (whose 1-day cash winnings total $16,401)
+, a bartender from San Francisco, California
+, an assistant dean originally from Mercer Island, Washington
+, an attorney from St. Louis, Missouri (whose 2-day cash winnings total $27,551)
+, a journalist from Rochester, Pennsylvania
+, a voice talent from Littleton, Massachusetts
+, an assistant dean originally from Mercer Island, Washington (whose 1-day cash winnings total $25,401)
+, an attorney from Tucker, Georgia
+, a college history professor from Salisbury, Maryland
+, a journalist from Rochester, Pennsylvania (whose 1-day cash winnings total $11,602)
+, a public relations professional from Arlington, Virginia
+, a bookkeeper from New York, New York
+, an attorney from Tucker, Georgia (whose 1-day cash winnings total $5,600)
+, a PC technician from Leesburg, Florida
+, a writer and entrepreneur from Kingston, Ontario, Canada
+, a public relations professional from Arlington, Virginia (whose 1-day cash winnings total $9,200)
+, a fundraiser from Brooklyn, New York
+, a substitute teacher originally from Cincinnati, Ohio
+, a writer and entrepreneur from Kingston, Ontario, Canada (whose 1-day cash winnings total $3,199)
+, an actor originally from Montreal, Quebec, Canada
+, a bookseller from Seattle, Washington
+, a substitute teacher originally from Cincinnati, Ohio (whose 1-day cash winnings total $28,906)
+, a high school English teacher from Mesquite, Texas
+, a law student from New York, New York
+, a bookseller from Seattle, Washington (whose 1-day cash winnings total $28,000)
+, a library technician from Vancouver, British Columbia, Canada
+, a high school administrator and teacher from Crystal Lake, Illinois
+, a high school English teacher from Mesquite, Texas (whose 1-day cash winnings total $18,800)
+, an advertising creative director from Dallas, Texas
+, an attorney from Rockville, Maryland
+, a high school English teacher from Mesquite, Texas (whose 2-day cash winnings total $31,200)
+, a head cashier from Jesup, Georgia
+, a writer from Los Angeles, California
+, an advertising creative director from Dallas, Texas (whose 1-day cash winnings total $15,799)
+, a musician from Blue Hill, Maine
+, a graduate student originally from St. Petersburg, Florida
+, an advertising creative director from Dallas, Texas (whose 2-day cash winnings total $42,199)
+, a student originally from South Lake Tahoe, California
+, an administrative assistant from Warwick, New York
+, a musician from Blue Hill, Maine (whose 1-day cash winnings total $11,599)
+, an Army lawyer from Tampa, Florida
+, a software developer from Cleveland Heights, Ohio
+, an administrative assistant from Warwick, New York (whose 1-day cash winnings total $600)
+, a professor from Greenville, South Carolina
+, a software tester from Vancouver, British Columbia, Canada
+, an Army lawyer from Tampa, Florida (whose 1-day cash winnings total $18,801)
+, a human resources assistant from Oxnard, California
+, a software engineer originally from St. Cloud, Minnesota
+, a professor from Greenville, South Carolina (whose 1-day cash winnings total $20,801)
+, a catering assistant from Palm Harbor, Florida
+, a school registrar from Maynard, Massachusetts
+, a human resources assistant from Oxnard, California (whose 1-day cash winnings total $9,500)
+, a bartender from Portland, Oregon
+, a retired executive, now web site designer from Bayonne, New Jersey
+, a school registrar from Maynard, Massachusetts (whose 1-day cash winnings total $14,001)
+, a biochemist from Indianapolis, Indiana
+, a contract coordinator originally from Havre, Montana
+, a retired executive, now web site designer from Bayonne, New Jersey (whose 1-day cash winnings total $20,800)
+, a food pantry supervisor originally from Brooklyn, New York
+, a teacher from Burlington, Vermont
+, a biochemist from Indianapolis, Indiana (whose 1-day cash winnings total $9,199)
+, an electrical engineer from Ottawa, Ontario, Canada
+, a teacher originally from San Bruno, California
+, a biochemist from Indianapolis, Indiana (whose 2-day cash winnings total $25,599)
+, a front services manager from Las Vegas, Nevada
+, a retired marine biologist from Tybee Island, Georgia
+, an electrical engineer from Ottawa, Ontario, Canada (whose 1-day cash winnings total $20,500)
+, a graduate student from Philadelphia, Pennsylvania
+, an attorney from Los Angeles, California
+, a retired marine biologist from Tybee Island, Georgia (whose 1-day cash winnings total $25,000)
+, an advanced customer care agent from Nashville, Tennessee
+, a stay-at-home mom and attorney from Oak Park, Illinois
+, a retired marine biologist from Tybee Island, Georgia (whose 2-day cash winnings total $46,800)
+, a switchboard manager from Albuquerque, New Mexico
+, a nonprofit director from Ponte Vedra Beach, Florida
+, an advanced customer care agent from Nashville, Tennessee (whose 1-day cash winnings total $14,401)
+, a university instructor from Victoria, British Columbia, Canada
+, a shipping manager from Portland, Oregon
+, a switchboard manager from Albuquerque, New Mexico (whose 1-day cash winnings total $10,000)
+, a welder originally from Anderson, Indiana
+, a meteorologist from Milwaukee, Wisconsin
+, a switchboard manager from Albuquerque, New Mexico (whose 2-day cash winnings total $16,199)
+, a teacher from Long Beach, California
+, a church office manager originally from Long Island, New York
+, a meteorologist from Milwaukee, Wisconsin (whose 1-day cash winnings total $17,401)
+, a teacher from Arlington, Texas
+, a nanny from Fairfax, Virginia
+, a meteorologist from Milwaukee, Wisconsin (whose 2-day cash winnings total $36,602)
+, a bookseller originally from Barstow, California
+, a software engineer from South San Francisco, California
+, a meteorologist from Milwaukee, Wisconsin (whose 3-day cash winnings total $59,403)
+, a congressional staffer originally from Portland, Oregon
+, a seminary student from La Mesa, California
+, a software engineer from South San Francisco, California (whose 1-day cash winnings total $30,000)
+, a training officer from Las Vegas, Nevada
+, a project coordinator from Los Angeles, California
+, a software engineer from South San Francisco, California (whose 2-day cash winnings total $62,500)
+, a chemical engineer from Halifax, Massachusetts
+, a librarian originally from Oswego, New York
+, a project coordinator from Los Angeles, California (whose 1-day cash winnings total $16,200)
+, an artist from Vancouver, British Columbia, Canada
+, a middle school teacher from Bakersfield, California
+, a librarian originally from Oswego, New York (whose 1-day cash winnings total $10,200)
+, an insurance executive from Gilbert, Arizona
+, a consultant from Louisville, Colorado
+, a middle school teacher from Bakersfield, California (whose 1-day cash winnings total $20,000)
+, a student originally from Tulsa, Oklahoma
+, an arts administrator from Denver, Colorado
+, a middle school teacher from Bakersfield, California (whose 2-day cash winnings total $39,201)
+, a copy editor from Orlando, Florida
+, a production scheduler from Los Angeles, California
+, an arts administrator from Denver, Colorado (whose 4-day cash winnings total $48,998)
+, a law school administrator from Tuscaloosa, Alabama
+, an ESL teacher and program coordinator from Vancouver, British Columbia, Canada
+, an arts administrator from Denver, Colorado (whose 5-day cash winnings total $68,599)
+, a university professor from Las Vegas, Nevada
+, a writer and professor from Austin, Texas
+, an ESL teacher and program coordinator from Vancouver, British Columbia, Canada (whose 1-day cash winnings total $13,400)
+, a police dispatcher and music student from Waldorf, Maryland
+, a consultant from Jackson Hole, Wyoming
+, a writer and professor from Austin, Texas (whose 1-day cash winnings total $30,001)
+, a teacher from Santa Barbara, California
+, a science analyst from North Plainfield, New Jersey
+, a writer and professor from Austin, Texas (whose 2-day cash winnings total $51,201)
+, a homemaker and attorney from Seattle, Washington
+, an investment adviser from Toronto, Ontario, Canada
+, a writer and professor from Austin, Texas (whose 3-day cash winnings total $66,802)
+, an exhibition designer from New York, New York
+, a surveyor's assistant from Lindside, West Virginia
+, a homemaker and attorney from Seattle, Washington (whose 1-day cash winnings total $13,000)
+, a forensic accountant from Hoover, Alabama
+, an administrative assistant from Denton, Texas
+, an exhibition designer from New York, New York (whose 1-day cash winnings total $27,400)
+, a rabbi from New York, New York
+, a database programmer from Albuquerque, New Mexico
+, a forensic accountant from Hoover, Alabama (whose 1-day cash winnings total $15,300)
+, a homemaker from Northridge, California
+, a copywriter from Columbus, Ohio
+, a database programmer from Albuquerque, New Mexico (whose 1-day cash winnings total $14,399)
+, a graduate student from Atlanta, Georgia
+, a psychologist from Seattle, Washington
+, a database programmer from Albuquerque, New Mexico (whose 2-day cash winnings total $37,799)
+, a respiratory therapist from Corsicana, Texas
+, an oncologist originally from Lawton, Oklahoma
+, a psychologist from Seattle, Washington (whose 1-day cash winnings total $17,500)
+, a retired quality engineer and manager from Scarborough, Maine
+, a restaurant manager from Melbourne, Florida
+, a respiratory therapist from Corsicana, Texas (whose 1-day cash winnings total $20,800)
+, a registered nurse from Birmingham, Alabama
+, a student from Vancouver, British Columbia, Canada
+, a restaurant manager from Melbourne, Florida (whose 1-day cash winnings total $20,801)
+, a teacher from Brooklyn, New York
+, a student from Lexington, Kentucky
+, a writer and professor from Austin, Texas
+, a special assistant from Washington, D.C.
+, a lawyer from Newton, Massachusetts
+, a student from Metairie, Louisiana
+, a medical student from Austin, Texas
+, a pharmacy technician from Old Town, Maine
+, a marketing analyst from Cleveland, Ohio
+, an arts administrator from Denver, Colorado
+, a student originally from Ridgewood, New Jersey
+, a meteorologist from Milwaukee, Wisconsin
